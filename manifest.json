@@ -1,11 +1,9 @@
 {
-  "name": "Scrolling Text",
-  "organization": "Custom",
-  "description": "Scrolling text banner",
-  "resources": [
-    {
-      "type": "js",
-      "url": "index.js"
-    }
-  ]
+  "visualization": {
+    "id": "scrollingText",
+    "label": "Scrolling Text",
+    "description": "Menampilkan running text di Looker Studio",
+    "script": "index.js",
+    "style": "style.css"
+  }
 }
