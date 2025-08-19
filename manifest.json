@@ -1,0 +1,11 @@
+{
+  "name": "Scrolling Text",
+  "organization": "Custom",
+  "description": "Scrolling text banner",
+  "resources": [
+    {
+      "type": "js",
+      "url": "index.js"
+    }
+  ]
+}
